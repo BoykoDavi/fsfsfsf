@@ -248,7 +248,7 @@ img {
         }
   }
 
-  @media (min-width: 1210px) and (max-width: 1440px) {
+  @media (min-width: 1210px) and (max-width: 1480px) {
     h1 {
         justify-content: center;
         text-align: center;
